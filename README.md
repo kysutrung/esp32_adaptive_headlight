@@ -1,5 +1,7 @@
+![Photo01](https://github.com/kysutrung/)
+
 # Adaptive-Matrix-LED-Headlight-Using-ESP32-Module
-[2024 Brand New Project] Adaptive Matrix LED Headlight Using ESP32 Development Board
+Adaptive Matrix LED Headlight Using ESP32 Development Board
 
 [Tiếng Việt]
 - Dự án Đèn Pha Ma Trận Thích Ứng ESP32 này được tạo ra với mục đích phát triển một hệ thống chiếu sáng thích ứng của ô tô giúp tăng tầm nhìn cho tài xế và giảm chói mắt cho xe đối diện
