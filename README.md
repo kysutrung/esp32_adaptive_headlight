@@ -1,4 +1,4 @@
-![Photo01](https://github.com/kysutrung/)
+![Photo01](https://github.com/kysutrung/esp32_auto_adapt_headlight/blob/main/media/repo_cover.jpg)
 
 # Adaptive-Matrix-LED-Headlight-Using-ESP32-Module
 Adaptive Matrix LED Headlight Using ESP32 Development Board
